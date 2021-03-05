@@ -1,0 +1,18 @@
+.jumbo {
+  text-align: center;
+  font-family: "Lato-Light";
+}
+
+@font-face {
+  font-family: "Lato-Light";
+  src: local("Lato-Light"), url(../fonts/Lato-BoldItalic.ttf) format("truetype");
+}
+
+h3, h1, p, h2{
+  font-family: "Lato-Light";
+  color:black;
+}
+
+.aboutpage {
+  padding: 75%
+}
